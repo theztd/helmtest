@@ -3,6 +3,16 @@ entries:
   common:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2025-02-28T13:09:19.412546956Z"
+    description: A common Helm chart for Kubernetes
+    digest: 179c3527f722b4ed6c5a607e9cde881345eb75a871f98deff93f313082a15fa4
+    name: common
+    type: application
+    urls:
+    - https://github.com/theztd/helmtest/releases/download/common_refs/heads/main-0.1.2/common-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2025-02-28T12:38:04.708266203Z"
     description: A common Helm chart for Kubernetes
     digest: a17e38c09fa4afffbaaa33b205792f2ed8bcc78eacf08990611f84269797fe8d
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://github.com/theztd/helmtest/releases/download/common-0.1.0/common-0.1.0.tgz
     version: 0.1.0
-generated: "2025-02-28T12:38:04.708278215Z"
+generated: "2025-02-28T13:09:19.412558337Z"
