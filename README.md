@@ -1,2 +1,4 @@
-# helmtest
-Testing helm chart
+# Testing helm repository
+
+
+Testing helm charts
