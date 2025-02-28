@@ -4,10 +4,11 @@ on:
   push:
     branches:
       - main
-      - releaser
+    paths:
+      - "helm-charts/**"
 
 jobs:
-  release:
+  helm-charts-releaser:
     permissions:
       contents: write
     runs-on: ubuntu-latest
